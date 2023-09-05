@@ -1,0 +1,2 @@
+# FlashCardApp
+A GUI app written in Python that presents flash cards with French and English words on them. The app works by presenting French words to the user first. If the user does not know the meaning of the word, the English translation will appear after three seconds. The user can then click a red button signifying their lack of understanding and getting the app to present a new French word card. If the user does know the word, clicking the green button will remove it from the list of French words and then present a new card.
